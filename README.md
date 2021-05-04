@@ -1,2 +1,2 @@
-# FurnaceSim
-A Sister game to PressSim
+# TerraSim
+A Terraria simulator
